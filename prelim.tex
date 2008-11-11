@@ -6,7 +6,7 @@
 %
 \documentclass[]{article}
 \usepackage[utf8]{inputenc}
-\usepackage{fullpage}
+\usepackage[headings]{fullpage}
 \usepackage{fancyhdr}
 \usepackage{amsmath}
 \usepackage{amssymb}
@@ -27,12 +27,14 @@
 \title{Is Side-Chain Entropy an Important Factor in Protein Folding?}
 \author{Joshua Ballanco}
 
-% \lhead{Side-Chain Entropy in Protein Folding}
-% \rhead{Joshua Ballanco}
-% \lfoot{\today}
-% \rfoot{\thepage}
-% \renewcommand{\headrulewidth}{0.4pt}
-% \renewcommand{\footrulewidth}{0.4pt}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Side-Chain Entropy in Protein Folding}
+\rhead{Joshua Ballanco}
+\lfoot{\today}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
 
 \begin{document}
 
@@ -41,8 +43,8 @@
 \begin{abstract}
 \input{abstract}
 \end{abstract}
-\newpage
 
+\newpage
 \input{introduction}
 \input{from_structures}
 \input{by_design}

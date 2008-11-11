@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  10 NOV 2008 20:40
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  11 NOV 2008 01:34
 entering extended mode
  file:line:error style messages enabled.
 **prelim.tex
@@ -370,18 +370,18 @@ File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
 ) (./prelim.aux)
 \openout1 = `prelim.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 (/opt/local/share/texmf-dist/tex/context/base/supp-pdf.tex
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -395,16 +395,16 @@ LaTeX Font Info:    ... okay on input line 37.
 \MPnumerator=\count104
 \everyMPtoPDFconversion=\toks22
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
  (/opt/local/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
 (/opt/local/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 39.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 41.
 
 (/opt/local/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
@@ -412,36 +412,36 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 {/opt/local/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./introduction.te
 x
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
-
-(/opt/local/share/texmf-dist/tex/latex/base/omscmr.fd
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+ (/opt/local/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
-) (./from_structures.tex) (./by_design.tex [2]) (./analysis.tex) (./experiment_
-proposal.tex)
-(./prelim.bbl) [3] (./prelim.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+)
+(./from_structures.tex) (./by_design.tex) (./analysis.tex)
+(./experiment_proposal.tex [3]) (./prelim.bbl) [4] (./prelim.aux) ) 
 Here is how much of TeX's memory you used:
- 2255 strings out of 94073
- 26379 string characters out of 1164875
- 75443 words of memory out of 1500000
- 5481 multiletter control sequences out of 10000+50000
+ 2258 strings out of 94073
+ 26423 string characters out of 1164875
+ 76137 words of memory out of 1500000
+ 5484 multiletter control sequences out of 10000+50000
  13758 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,6n,43p,780b,199s stack positions out of 5000i,500n,6000p,200000b,5000s
-</opt/local/share/texmf-dist/fonts/type1/blu
-esky/cm/cmbx12.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx9.pf
-b></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></opt/local/sha
-re/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></opt/local/share/texmf-dist/fon
-ts/type1/bluesky/cm/cmr17.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/
-cm/cmr9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10.pfb></op
-t/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></opt/local/share/te
-xmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt/local/share/texmf-dist/fonts/ty
-pe1/bluesky/ams/msam10.pfb>
-Output written on prelim.pdf (3 pages, 73086 bytes).
+ 27i,10n,43p,1079b,256s stack positions out of 5000i,500n,6000p,200000b,5000s
+</opt/local/
+share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local/share/texmf-dist
+/fonts/type1/bluesky/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/blue
+sky/cm/cmr10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb>
+</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></opt/local/share
+/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/local/share/texmf-dist/fonts/
+type1/bluesky/cm/cmsy10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm
+/cmti10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt
+/local/share/texmf-dist/fonts/type1/bluesky/ams/msam10.pfb>
+Output written on prelim.pdf (4 pages, 78014 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

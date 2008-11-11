@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{Brady:1997p318}
+G~P Brady and K~A Sharp.
+\newblock Entropy in protein folding and in protein-protein interactions.
+\newblock {\em Curr Opin Struct Biol}, 7(2):215--21, Apr 1997.
+
 \bibitem{Clark:2008p141}
 A~Clay Clark.
 \newblock Protein folding: are we there yet?
@@ -9,6 +14,12 @@ A~Clay Clark.
 Ken~A Dill, S~Banu Ozkan, M~Scott Shell, and Thomas~R Weikl.
 \newblock The protein folding problem.
 \newblock {\em Annual review of biophysics}, 37:289--316, Jan 2008.
+
+\bibitem{Meirovitch:2007p317}
+Hagai Meirovitch.
+\newblock Recent developments in methodologies for calculating the entropy and
+  free energy of biological systems by computer simulation.
+\newblock {\em Curr Opin Struct Biol}, 17(2):181--6, Apr 2007.
 
 \bibitem{Service:2008p294}
 Robert~F Service.
