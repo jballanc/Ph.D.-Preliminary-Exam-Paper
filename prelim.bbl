@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{Berezovsky:2005p40}
+Igor~N Berezovsky, William~W Chen, Paul~J Choi, and Eugene~I Shakhnovich.
+\newblock Entropic stabilization of proteins and its proteomic consequences.
+\newblock {\em PLoS Comput Biol}, 1(4):e47, Sep 2005.
+
 \bibitem{Brady:1997p318}
 G~P Brady and K~A Sharp.
 \newblock Entropy in protein folding and in protein-protein interactions.
@@ -30,5 +35,10 @@ Hagai Meirovitch.
 Robert~F Service.
 \newblock Problem solved* (*sort of).
 \newblock {\em Science}, 321(5890):784--6, Aug 2008.
+
+\bibitem{Zhang:2006p11}
+Jinfeng Zhang and Jun~S Liu.
+\newblock On side-chain conformational entropy of proteins.
+\newblock {\em PLoS Comput Biol}, 2(12):e168, Dec 2006.
 
 \end{thebibliography}

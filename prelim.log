@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  11 NOV 2008 22:27
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  12 NOV 2008 02:49
 entering extended mode
  file:line:error style messages enabled.
 **prelim.tex
@@ -412,38 +412,58 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 {/opt/local/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./introduction.te
 x
-[2]) (./from_structures.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+[2]) (./from_structures.tex [3]
+<rotamer_ratio.pdf, id=21, 180.08794pt x 172.15968pt>
+File: rotamer_ratio.pdf Graphic file (type pdf)
+ <use rotamer_ratio.pdf>
+[4 <./rotamer_ratio.pdf>] <aa_content.pdf, id=64, 346.81247pt x 168.46408pt>
+File: aa_content.pdf Graphic file (type pdf)
 
-(/opt/local/share/texmf-dist/tex/latex/base/omscmr.fd
+<use aa_content.pdf>
+<deltaS_descrimination.pdf, id=65, 252.69598pt x 234.00162pt>
+File: deltaS_descrimination.pdf Graphic file (type pdf)
+
+<use deltaS_descrimination.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./by_design.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+ (/opt/local/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-) (./by_design.tex
-[3]) (./analysis.tex) (./experiment_proposal.tex) (./prelim.bbl) [4]
-(./prelim.aux) ) 
+)
+(./analysis.tex [5 <./aa_content.pdf>]) (./experiment_proposal.tex)
+(./prelim.bbl [6 <./deltaS_descrimination.pdf>]) [7] (./prelim.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2259 strings out of 94073
- 26439 string characters out of 1164875
- 76140 words of memory out of 1500000
- 5485 multiletter control sequences out of 10000+50000
+ 2280 strings out of 94073
+ 26880 string characters out of 1164875
+ 76170 words of memory out of 1500000
+ 5503 multiletter control sequences out of 10000+50000
  13758 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,10n,43p,1080b,256s stack positions out of 5000i,500n,6000p,200000b,5000s
-</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb>
-</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local/shar
-e/texmf-dist/fonts/type1/bluesky/cm/cmbx7.pfb></opt/local/share/texmf-dist/font
-s/type1/bluesky/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/c
-m/cmr10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></opt
-/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></opt/local/share/texm
-f-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/local/share/texmf-dist/fonts/type1
-/bluesky/cm/cmsy10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti
-10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt/loca
-l/share/texmf-dist/fonts/type1/bluesky/ams/msam10.pfb>
-Output written on prelim.pdf (4 pages, 85533 bytes).
+ 27i,10n,43p,1080b,290s stack positions out of 5000i,500n,6000p,200000b,5000s
+</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></opt/local/sh
+are/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local/share/texmf-dist/f
+onts/type1/bluesky/cm/cmbx7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesk
+y/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pfb><
+/opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></opt/local/share/
+texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></opt/local/share/texmf-dist/fonts/
+type1/bluesky/cm/cmr12.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/
+cmr17.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/lo
+cal/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10.pfb></opt/local/share/texmf-
+dist/fonts/type1/bluesky/cm/cmti10.pfb></opt/local/share/texmf-dist/fonts/type1
+/bluesky/cm/cmti9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/ams/msam
+10.pfb>
+Output written on prelim.pdf (7 pages, 306349 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 248 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
