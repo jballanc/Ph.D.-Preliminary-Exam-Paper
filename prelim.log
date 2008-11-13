@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  13 NOV 2008 02:58
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  13 NOV 2008 08:01
 entering extended mode
  file:line:error style messages enabled.
 **prelim.tex
@@ -433,50 +433,31 @@ File: surface_vs_buried.pdf Graphic file (type pdf)
 File: BP_vs_SA.pdf Graphic file (type pdf)
  <use BP_vs_SA.pdf> [8 <./surface_vs_buried.pdf>]) (./analysis.tex [9 <./BP_vs_
 SA.pdf>])
-(./experiment_proposal.tex
-
-LaTeX Warning: Citation `Galzitskaya:2006p35' on page 10 undefined on input lin
-e 5.
-
-[10]
-
-LaTeX Warning: Citation `Cao:2008p142' on page 11 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Camilloni:2008p276' on page 11 undefined on input line
- 11.
-
-) (./prelim.bbl [11]) [12] (./prelim.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./experiment_proposal.tex [10]) (./conclusion.tex) (./prelim.bbl [11])
+[12] (./prelim.aux) ) 
 Here is how much of TeX's memory you used:
- 2282 strings out of 94073
- 26950 string characters out of 1164875
- 76202 words of memory out of 1500000
- 5506 multiletter control sequences out of 10000+50000
+ 2286 strings out of 94073
+ 27006 string characters out of 1164875
+ 76222 words of memory out of 1500000
+ 5507 multiletter control sequences out of 10000+50000
  13758 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,11n,43p,1264b,284s stack positions out of 5000i,500n,6000p,200000b,5000s
-</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></opt/local/sh
-are/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local/share/texmf-dist/f
-onts/type1/bluesky/cm/cmbx7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesk
-y/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmex10.pfb><
-/opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pfb></opt/local/share
-/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></opt/local/share/texmf-dist/fonts
-/type1/bluesky/cm/cmr10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm
-/cmr12.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></opt/
-local/share/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></opt/local/share/texmf-
-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/local/share/texmf-dist/fonts/type1/b
-luesky/cm/cmsy10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmsy7.
-pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></opt/local/
-share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt/local/share/texmf-dist/
-fonts/type1/bluesky/ams/msam10.pfb>
-Output written on prelim.pdf (12 pages, 403372 bytes).
+ 27i,11n,43p,1264b,282s stack positions out of 5000i,500n,6000p,200000b,5000s
+</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10
+.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local
+/share/texmf-dist/fonts/type1/bluesky/cm/cmbx7.pfb></opt/local/share/texmf-dist
+/fonts/type1/bluesky/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/blue
+sky/cm/cmex10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pf
+b></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></opt/local/sha
+re/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></opt/local/share/texmf-dist/fon
+ts/type1/bluesky/cm/cmr12.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/
+cm/cmr17.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></opt
+/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/local/share/texmf
+-dist/fonts/type1/bluesky/cm/cmsy10.pfb></opt/local/share/texmf-dist/fonts/type
+1/bluesky/cm/cmsy7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti
+10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt/loca
+l/share/texmf-dist/fonts/type1/bluesky/ams/msam10.pfb>
+Output written on prelim.pdf (12 pages, 403596 bytes).
 PDF statistics:
  323 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
