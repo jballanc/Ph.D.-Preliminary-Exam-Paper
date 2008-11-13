@@ -12,7 +12,7 @@ To answer that question, they first calculated side-chain entropy in three diffe
 
 With these results in hand, they proceeded to carry out repacking simulations (essentially, the design algorithm without mutating any residues) using both the original scoring metric and the modified metric including side-chain entropy. Dividing the residues between those which are near the surface and those buried in the protein's interior, they were able to measure a change in side-chain entropy upon burial (Figure~\ref{fig:surface_vs_buried}). As expected, they find that the longer, more flexible side chains suffer a greater entropy penalty when buried, but when accounting for the difference between the average energy of the side-chains and the energy of the most stable side-chain conformation, they find the difference is less noticeable. Only four amino acids (Met, Arg, Gln, and Glu) have a greater than $0.3 kcal/mol$ advantage when positioned near the surface.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\center
 	\includegraphics{surface_vs_buried}
 	\caption{(Borrowed from \cite{Hu:2006p68}) Changes in side-chain conformational entropy and free energy between surface and buried positions. The black bars show the change in entropy (TS) when a residue is buried whereas the gray bars compare average free energies ($\mathrm{U_{avg}}$ - TS) obtained with the explicit side-chain entropy model to the energies that are calculated with the standard RosettaDesign model ($\mathrm{U_{best}}$). The gray bars indicate the net effect that the explicit side-chain entropy model has on the environmental preferences of the amino acids.}
