@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Berezovsky:2005p40}
 Igor~N Berezovsky, William~W Chen, Paul~J Choi, and Eugene~I Shakhnovich.
@@ -31,11 +31,21 @@ Xiaozhen Hu and Brian Kuhlman.
   entropy is not a strong determinant of amino acid environmental preferences.
 \newblock {\em Proteins}, 62(3):739--48, Mar 2006.
 
+\bibitem{Lippow:2007p360}
+Shaun~M Lippow and Bruce Tidor.
+\newblock Progress in computational protein design.
+\newblock {\em Current Opinion in Biotechnology}, 18(4):305--11, Aug 2007.
+
 \bibitem{Meirovitch:2007p317}
 Hagai Meirovitch.
 \newblock Recent developments in methodologies for calculating the entropy and
   free energy of biological systems by computer simulation.
 \newblock {\em Curr Opin Struct Biol}, 17(2):181--6, Apr 2007.
+
+\bibitem{Sciretti:2008p361}
+D~Sciretti, P~Bruscolini, A~Pelizzola, M~Pretti, and A~Jaramillo.
+\newblock Computational protein design with side-chain conformational entropy.
+\newblock {\em Proteins}, Jul 2008.
 
 \bibitem{Service:2008p294}
 Robert~F Service.
