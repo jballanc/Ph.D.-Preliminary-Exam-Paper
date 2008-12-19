@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  13 NOV 2008 08:01
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.10.2)  18 NOV 2008 16:32
 entering extended mode
  file:line:error style messages enabled.
 **prelim.tex
@@ -367,23 +367,27 @@ File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
+)
+(/opt/local/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
 ) (./prelim.aux)
 \openout1 = `prelim.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-
-(/opt/local/share/texmf-dist/tex/context/base/supp-pdf.tex
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+ (/opt/local/share/texmf-dist/tex/context/base/supp-pdf.tex
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count100
 \scratchdimen=\dimen114
@@ -395,71 +399,77 @@ LaTeX Font Info:    ... okay on input line 39.
 \MPnumerator=\count104
 \everyMPtoPDFconversion=\toks22
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
  (/opt/local/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 (/opt/local/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 41.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 43.
 
 (/opt/local/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) (./abstract.tex) [1
+) (./abstract.tex [1
 
-{/opt/local/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./introduction.te
-x
-[2]) (./from_structures.tex [3]
-<rotamer_ratio.pdf, id=21, 180.08794pt x 172.15968pt>
+{/opt/local/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./introducti
+on.tex
+[3] [4]) (./from_structures.tex [5]
+<rotamer_ratio.pdf, id=27, 180.08794pt x 172.15968pt>
 File: rotamer_ratio.pdf Graphic file (type pdf)
  <use rotamer_ratio.pdf>
-[4 <./rotamer_ratio.pdf>] <aa_content.pdf, id=64, 346.81247pt x 168.46408pt>
-File: aa_content.pdf Graphic file (type pdf)
 
-<use aa_content.pdf>
-<deltaS_discrimination.pdf, id=65, 252.69598pt x 234.00162pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] <aa_content.pdf, id=32, 346.81247pt x 168.46408pt>
+File: aa_content.pdf Graphic file (type pdf)
+ <use aa_content.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./rotamer_ratio.pdf>]
+<deltaS_discrimination.pdf, id=75, 252.69598pt x 234.00162pt>
 File: deltaS_discrimination.pdf Graphic file (type pdf)
 
-<use deltaS_discrimination.pdf> [5 <./aa_content.pdf>]) (./by_design.tex
-[6 <./deltaS_discrimination.pdf>]
-<surface_vs_buried.pdf, id=199, 253.34067pt x 175.98477pt>
+<use deltaS_discrimination.pdf> [8 <./aa_content.pdf>]) (./by_design.tex
+[9 <./deltaS_discrimination.pdf>] [10]
+<surface_vs_buried.pdf, id=215, 253.34067pt x 175.98477pt>
 File: surface_vs_buried.pdf Graphic file (type pdf)
 
-<use surface_vs_buried.pdf> [7]
-<BP_vs_SA.pdf, id=208, 234.8775pt x 169.63374pt>
+<use surface_vs_buried.pdf> [11 <./surface_vs_buried.pdf>] [12]
+<BP_vs_SA.pdf, id=262, 234.8775pt x 169.63374pt>
 File: BP_vs_SA.pdf Graphic file (type pdf)
- <use BP_vs_SA.pdf> [8 <./surface_vs_buried.pdf>]) (./analysis.tex [9 <./BP_vs_
-SA.pdf>])
-(./experiment_proposal.tex [10]) (./conclusion.tex) (./prelim.bbl [11])
-[12] (./prelim.aux) ) 
+ <use BP_vs_SA.pdf>)
+(./analysis.tex [13 <./BP_vs_SA.pdf>] [14]) (./experiment_proposal.tex [15])
+(./conclusion.tex [16]) (./prelim.bbl [17]) [18] (./prelim.aux) ) 
 Here is how much of TeX's memory you used:
- 2286 strings out of 94073
- 27006 string characters out of 1164875
- 76222 words of memory out of 1500000
- 5507 multiletter control sequences out of 10000+50000
+ 2320 strings out of 94073
+ 27598 string characters out of 1164875
+ 75592 words of memory out of 1500000
+ 5537 multiletter control sequences out of 10000+50000
  13758 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,11n,43p,1264b,282s stack positions out of 5000i,500n,6000p,200000b,5000s
-</opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10
-.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></opt/local
-/share/texmf-dist/fonts/type1/bluesky/cm/cmbx7.pfb></opt/local/share/texmf-dist
-/fonts/type1/bluesky/cm/cmbx9.pfb></opt/local/share/texmf-dist/fonts/type1/blue
-sky/cm/cmex10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pf
-b></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmmi7.pfb></opt/local/sha
-re/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></opt/local/share/texmf-dist/fon
-ts/type1/bluesky/cm/cmr12.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/
-cm/cmr17.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr7.pfb></opt
-/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></opt/local/share/texmf
--dist/fonts/type1/bluesky/cm/cmsy10.pfb></opt/local/share/texmf-dist/fonts/type
-1/bluesky/cm/cmsy7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti
-10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></opt/loca
-l/share/texmf-dist/fonts/type1/bluesky/ams/msam10.pfb>
-Output written on prelim.pdf (12 pages, 403596 bytes).
+ 27i,11n,43p,1257b,282s stack positions out of 5000i,500n,6000p,200000b,5000s
+</opt/local/sh
+are/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></opt/local/share/texmf-dist/f
+onts/type1/bluesky/cm/cmbx12.pfb></opt/local/share/texmf-dist/fonts/type1/blues
+ky/cm/cmbx7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmbx9.pfb><
+/opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmex10.pfb></opt/local/share
+/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pfb></opt/local/share/texmf-dist/font
+s/type1/bluesky/cm/cmmi7.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/c
+m/cmr10.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></opt
+/local/share/texmf-dist/fonts/type1/bluesky/cm/cmr17.pfb></opt/local/share/texm
+f-dist/fonts/type1/bluesky/cm/cmr7.pfb></opt/local/share/texmf-dist/fonts/type1
+/bluesky/cm/cmr9.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10
+.pfb></opt/local/share/texmf-dist/fonts/type1/bluesky/cm/cmsy7.pfb></opt/local/
+share/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></opt/local/share/texmf-dist
+/fonts/type1/bluesky/cm/cmti9.pfb></opt/local/share/texmf-dist/fonts/type1/blue
+sky/ams/msam10.pfb>
+Output written on prelim.pdf (18 pages, 407897 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
+ 342 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
